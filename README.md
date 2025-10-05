@@ -1,60 +1,21 @@
-  ```bash
-  $ whoami
-  > nonce-ns
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-  $ mission
-  > Build verifiable experiences on Sui with SP1 (Succinct) + Walrus + Soundness Layer.
 
-  $ focus
-  > - ConnectSphere: JWT → SP1 → Walrus → Soundness → Sui proof pipeline
-  > - Ligero experiments: WebGPU proving, payload schemas, submission UX
-  > - Tooling around zk-friendly DevEx (Rust, TypeScript, Move, WebAssembly)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nonce_ns) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nonce_ns) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bisnisns@gmail.com) 
 
-  ———
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nonce-ns&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nonce-ns&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nonce-ns&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  ### ⚙️ Tech Stack (animated)
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=rust,wasm,ts,react,tailwind,python,cmake,docker,githubactions,vscode&perline=10" alt="Tech badges">
-  </p>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nonce-ns&theme=radical" alt="GitHub profile details chart">
-  </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nonce-ns&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-  ———
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nonce-ns&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  ### 🔭 Currently hacking on
-
-  - 🚀 ConnectSphere backend — SP1 proof generation, Walrus uploads, Soundness submission
-  - 🧪 Ligero prover lab — WebGPU proofs, payload validation, orchestrated testing
-  - 🔒 Sui-zk integrations — Sui Move verifier modules for SP1/Ligero proofs
-  - 🧰 DevEx tooling — automations, dashboards, CLI helpers around zero-knowledge flows
-
-  ———
-
-  ### 📈 Activity at a glance
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nonce-ns&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Nonce GitHub stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=nonce-ns&theme=radical&hide_border=true" alt="Nonce GitHub streak stats">
-  </p>
-
-  ———
-
-  ### 🎥 Motion Playground
-  <p align="center">
-    <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="340" alt="Coding animation">
-    <img src="https://media.giphy.com/media/7JTFZ6LAqT3HN4h44j/giphy.gif" width="340" alt="Zero knowledge animation">
-  </p>
-
-  ———
-
-  ### 📬 Let’s connect
-
-  - ✉️ Mail: hello@nonce.id
-  - 💬 GitHub Discussions/Issues
-  - 🧠 Always open to collaborations around ZK + Sui tooling
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=%E2%9C%94+Proofs+should+feel+magical;...and+maintainable."
-  >
-  </p>
-  ```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

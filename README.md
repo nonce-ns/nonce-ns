@@ -1,34 +1,48 @@
-  <p align="center">
-  <br>
-  <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">NS</a></b>.
-    <br>I'm A builder and cryptography enthusiast, focused on developing secure and decentralized systems. My passion lies in applying cryptographic principles to create robust applications that prioritize user privacy and data integrity. from INDONESIAN.<br>
-</samp>
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
-</p>
-<details align="center">
-<summary> <b> <samp> Touch NS </samp></b></summary>
-<samp>
- <b><h2 style="color: #fc6203">Yoo &nbsp; Welcome !</h2> </b>
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Discord</title><path d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 00.0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 00-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 01-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.099.246.1981.3728.2924a.077.077 0 01-.0066.1276 12.2986 12.2986 0 01-1.873.8914.0766.0766 0 00-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 00.0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 00.0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.9555 2.4189-2.1569 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z"/></svg>
-<p>Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Soundness-Layer.</a></p>
-<p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
-  &nbsp; 
-  &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
-  &nbsp; 
-  &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
-  &nbsp;
-  &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
-</p> 
-</samp>
-</details>
-<hr>
-<p>Credits: <a href="https://github.com/nonce-ns">TanZng</a></p>
+<pre>
+███╗░░██╗░█████╗░██╗░░██╗███████╗██████╗░
+████╗░██║██╔══██╗██║░░██║██╔════╝██╔══██╗
+██╔██╗██║███████║███████║█████╗░░██████╔╝
+██║╚████║██╔══██║██╔══██║██╔══╝░░██╔══██╗
+██║░╚███║██║░░██║██║░░██║███████╗██║░░██║
+╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
+</pre>
+
+<pre>
+[System Booting...]
+[Kernel Initialized]
+[Accessing Root Directory...]
+[ACCESS GRANTED]
+
+<b>> whoami</b>
+
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/assets/hacker.gif" width="200" />
+
+  <b>ENTITY_TYPE:</b>         Builder, Cryptography Enthusiast
+  <b>PRIMARY_DIRECTIVE:</b>   Forge secure, decentralized protocols.
+  <b>CORE_VALUES:</b>         [Privacy, Integrity, Anonymity]
+  <b>LOCATION:</b>            Sector 62 // Indonesia 🇮🇩
+
+
+<b>> cat /etc/skills.conf</b>
+
+  <b>[LANGUAGES]</b>
+  // Python, Go, Rust, JavaScript
+
+  <b>[PROTOCOLS]</b>
+  // Blockchain, P2P Networking, Zero-Knowledge Proofs
+
+  <b>[SECURITY]</b>
+  // Threat Modeling, Smart Contract Auditing, OpSec
+
+
+<b>> connect --all</b>
+
+  [<a href="URL_LINKEDIN_ANDA">LINKEDIN</a>]
+  [<a href="URL_GITHUB_ANDA">GITHUB</a>]
+  [<a href="URL_TWITTER_ANDA">TWITTER</a>]
+  [<a href="URL_WEBSITE_ANDA">WEBSITE</a>]
+
+<b>> exit</b>
+
+[SESSION TERMINATED]
+</pre>

@@ -1,48 +1,32 @@
 <pre>
-███╗░░██╗░█████╗░██╗░░██╗███████╗██████╗░
-████╗░██║██╔══██╗██║░░██║██╔════╝██╔══██╗
-██╔██╗██║███████║███████║█████╗░░██████╔╝
-██║╚████║██╔══██║██╔══██║██╔══╝░░██╔══██╗
-██║░╚███║██║░░██║██║░░██║███████╗██║░░██║
-╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
-</pre>
+                                                     
+    // NONCE-NS // ROOT ACCESS // DECRYPTING PAYLOAD... 
+    ----------------------------------------------------
+    
+    <img align="right" alt="GIF" src="https://i.giphy.com/media/VbE1xtnPHx6DDRz4kl/giphy.webp" width="180" />
 
-<pre>
-[System Booting...]
-[Kernel Initialized]
-[Accessing Root Directory...]
-[ACCESS GRANTED]
+    <b>INITIATING CONTACT...</b>
+    
+    > Identity: Builder. Cryptographer.
+    > Mission:  Weave privacy into the digital fabric.
+    >           Forge systems resistant to surveillance.
+    > Origin:   Jakarta Grid 🇮🇩
+    
 
-<b>> whoami</b>
+    <b>LOADING MODULES...</b>
+    
+    > Languages:  [ Python | Go | Rust         ]
+    > Focus:      [ ZKPs   | DeFi | P2P Networks ]
+    > Tools:      [ Remix  | Wireshark | GDB      ]
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/assets/hacker.gif" width="200" />
-
-  <b>ENTITY_TYPE:</b>         Builder, Cryptography Enthusiast
-  <b>PRIMARY_DIRECTIVE:</b>   Forge secure, decentralized protocols.
-  <b>CORE_VALUES:</b>         [Privacy, Integrity, Anonymity]
-  <b>LOCATION:</b>            Sector 62 // Indonesia 🇮🇩
-
-
-<b>> cat /etc/skills.conf</b>
-
-  <b>[LANGUAGES]</b>
-  // Python, Go, Rust, JavaScript
-
-  <b>[PROTOCOLS]</b>
-  // Blockchain, P2P Networking, Zero-Knowledge Proofs
-
-  <b>[SECURITY]</b>
-  // Threat Modeling, Smart Contract Auditing, OpSec
+    
+    <b>ESTABLISHING SIGNAL...</b>
+    
+    > Find my signal across the network:
+    > [ <a href="URL_GITHUB_ANDA">0x01_GitHub</a> ] [ <a href="URL_LINKEDIN_ANDA">0x02_LinkedIn</a> ] [ <a href="URL_TWITTER_ANDA">0x03_X</a> ]
 
 
-<b>> connect --all</b>
+    <b>// CONNECTION ESTABLISHED. PAYLOAD DELIVERED.</b>
+    ----------------------------------------------------
 
-  [<a href="URL_LINKEDIN_ANDA">LINKEDIN</a>]
-  [<a href="URL_GITHUB_ANDA">GITHUB</a>]
-  [<a href="URL_TWITTER_ANDA">TWITTER</a>]
-  [<a href="URL_WEBSITE_ANDA">WEBSITE</a>]
-
-<b>> exit</b>
-
-[SESSION TERMINATED]
 </pre>

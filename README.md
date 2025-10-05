@@ -9,12 +9,12 @@
         <td><img src="https://img.shields.io/badge/Coffee-181717?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Status"/></td>
     </tr>
     <tr>
-        <td style="padding-right: 15px;">CLASS</td>
+        <td style="padding-right: 15px;">ROLE</td>
         <td style="padding-right: 15px;">::</td>
         <td>BUILDER | CRYPTOGRAPHER</td>
     </tr>
     <tr>
-        <td style="padding-right: 15px;">NODE</td>
+        <td style="padding-right: 15px;">LIVE</td>
         <td style="padding-right: 15px;">::</td>
         <td>ID-SRG <img src="https://img.shields.io/badge/-ID-black?style=for-the-badge&logo=indonesia" alt="Indonesia"/></td>
     </tr>

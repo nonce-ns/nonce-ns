@@ -1,3 +1,5 @@
+<div align="center">
+
 > cat /etc/identity
 
 <table cellspacing="0" cellpadding="0" border="0" style="border: none; font-family: 'Courier New', Courier, monospace;">
@@ -14,7 +16,7 @@
     <tr>
         <td style="padding-right: 15px;">NODE</td>
         <td style="padding-right: 15px;">::</td>
-        <td>ID-JKT <img src="https://img.shields.io/badge/-ID-black?style=for-the-badge&logo=indonesia" alt="Indonesia"/></td>
+        <td>ID-SRG <img src="https://img.shields.io/badge/-ID-black?style=for-the-badge&logo=indonesia" alt="Indonesia"/></td>
     </tr>
     <tr>
         <td style="padding-right: 15px;">PROTOCOL</td>
@@ -31,3 +33,5 @@
         </td>
     </tr>
 </table>
+
+</div>
